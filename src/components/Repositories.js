@@ -21,7 +21,7 @@ function Repositories({ repos }) {
           </p>
 
           <p>
-            ⭐ Stars:
+             Stars:
             {repo.stargazers_count}
           </p>
 
